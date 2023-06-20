@@ -12,3 +12,14 @@ ng serve
 ó
 ng s -o
 ```
+## 🤘Crear comandos en scripts en package.json
+```
+ "scripts": {
+    "ng": "ng",
+    "start": "ng serve -o",
+  },
+```
+* Para llamarlo (en este caso levantar en servidor)
+```
+npm start
+```
