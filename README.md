@@ -19,7 +19,7 @@ ng s -o
     "start": "ng serve -o",
   },
 ```
-* Para llamarlo (en este caso levantar en servidor)
+* Para ejercutar el comando (en este caso levantar en servidor)
 ```
 npm start
 ```
