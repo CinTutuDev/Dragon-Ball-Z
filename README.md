@@ -6,3 +6,9 @@
 npm init @angular myApp
 ng new my-app
 ```
+## Levantar en servidor
+```
+ng serve
+ó
+ng s -o
+```
