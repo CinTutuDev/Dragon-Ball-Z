@@ -23,3 +23,7 @@ ng s -o
 ```
 npm start
 ```
+## 🕹 Crear componentes desde línea de comandos:
+```
+ng g c heroes/list
+```
