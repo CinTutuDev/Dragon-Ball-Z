@@ -13,7 +13,16 @@ export class HeroComponent {
     return this.name.toUpperCase();
   }
 
- /*  public */ getHeroDescription(): string {
+  /*  public */ getHeroDescription(): string {
     return `${this.name} - ${this.age} `;
+  }
+
+  changeHero(): void {
+    /* throw 'Método no implementado'; */
+    this.name = 'tutu';
+  }
+
+  changeAge(): void {
+    this.age = 41;
   }
 }
