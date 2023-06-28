@@ -21,10 +21,10 @@ https://angular.io/guide/interpolation
   ```
   <section *ngIf="showSection">
   ```
-*ngFor: Convierte el <li> en un template, y lo usa para duplicarlo basado en la cantidad de elementos dentro de la lista 
+*ngFor: Convierte el li en un template, y lo usa para duplicarlo basado en la cantidad de elementos dentro de la lista 
   ```
 <li *ngFor="let item of list">
-```
+ ```
 
   
 ## 🏍Levantar en servidor
