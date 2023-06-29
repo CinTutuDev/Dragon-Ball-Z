@@ -1,5 +1,7 @@
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
+
+/* Componentes */
 import { MainPageComponent } from './pages/main-page.component';
 
 @NgModule({

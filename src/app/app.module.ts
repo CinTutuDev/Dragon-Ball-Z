@@ -1,14 +1,14 @@
 /* Módulos de JS y Angular  */
-import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
+import { NgModule } from '@angular/core';
 
 /* Módulos */
 import { CounterModule } from './counter/counter.module';
+import { DbzModule } from './dbz/dbz.module';
 import { HeroesModule } from './heroes/heroes.module';
 
 /* Componentes */
 import { AppComponent } from './app.component';
-import { DbzModule } from './dbz/dbz.module';
 
 @NgModule({
   declarations: [AppComponent],
