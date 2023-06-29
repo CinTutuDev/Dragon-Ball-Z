@@ -13,20 +13,28 @@ https://getbootstrap.com
 ```
 ```
 https://angular.io/guide/interpolation
-
-``` 
+```
+```
+https://getbootstrap.com/docs/5.3/components/list-group/#variants
+```
 ## 📌 Directivas incluídas
 * Dentro del módulo “CommonModule” de @angular/common <br>
 
-*ngIf: Remueve o crea una parte del DOM basado en la expresión “showSection”
+👉 *ngIf: Remueve o crea una parte del DOM basado en la expresión “showSection”
   ```
   <section *ngIf="showSection">
   ```
-*ngFor: Convierte el li en un template, y lo usa para duplicarlo basado en la cantidad de elementos dentro de la lista
+👉 *ngFor: Convierte el li en un template, y lo usa para duplicarlo basado en la cantidad de elementos dentro de la lista
   
   ```
   <li *ngFor="let item of list">
  ```
+👉 ngClass: Enlaza clases de css basado en un objeto o expresión
+```
+<div [ngClass]="{'active': isActive,
+ 'disabled': isDisabled}">
+```
+
 ## 📌 Decoradores de clase para componentes
 * @Input: Define una propiedad que puede ser enviada desde el padre hacia el componente hijo. 
 ```
