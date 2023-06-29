@@ -13,8 +13,10 @@ https://getbootstrap.com
 ```
 ```
 https://angular.io/guide/interpolation
-
-``` 
+```
+```
+https://getbootstrap.com/docs/5.3/components/list-group/#variants
+```
 ## 📌 Directivas incluídas
 * Dentro del módulo “CommonModule” de @angular/common <br>
 
