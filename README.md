@@ -27,7 +27,15 @@ https://angular.io/guide/interpolation
   ```
   <li *ngFor="let item of list">
  ```
-
+## 📌 Decoradores de clase para componentes
+* @Input: Define una propiedad que puede ser enviada desde el padre hacia el componente hijo. 
+```
+@Input() myProperty
+```
+* @Output: Define una salida del componente que el componente padre puede suscribirse para escuchar.
+```
+@Output() myEvent = new EventEmitter();
+```
   
 ## 🏍Levantar en servidor
 ```
