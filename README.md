@@ -46,7 +46,13 @@ ng s -o
 ```
 npm start
 ```
-## 🕹 Crear componentes desde línea de comandos:
+## 🕹 Crear componentes desde línea de comandos
 ```
 ng g c heroes/list
 ```
+## 🕹 Crear módulos desde línea de comandos:
+```
+ng g m dbz
+```
+
+
