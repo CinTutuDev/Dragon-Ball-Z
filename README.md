@@ -32,10 +32,18 @@ https://angular.io/guide/interpolation
 ```
 @Input() myProperty
 ```
+ Ejemplo:
+  ```
+  <my-cmp [myProperty]="someExpression">
+  ```
 * @Output: Define una salida del componente que el componente padre puede suscribirse para escuchar.
 ```
 @Output() myEvent = new EventEmitter();
 ```
+ Ejemplo:
+  ```
+  <my-cmp (myEvent)=“someExpression”
+  ```
   
 ## 🏍Levantar en servidor
 ```
