@@ -34,6 +34,10 @@ https://getbootstrap.com/docs/5.3/components/list-group/#variants
 <div [ngClass]="{'active': isActive,
  'disabled': isDisabled}">
 ```
+👉 FormsModule de @angular/forms
+```
+<input [(ngModel)]="userName"
+```
 
 ## 📌 Decoradores de clase para componentes
 * @Input: Define una propiedad que puede ser enviada desde el padre hacia el componente hijo. 
