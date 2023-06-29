@@ -16,14 +16,16 @@ https://angular.io/guide/interpolation
 
 ``` 
 ## 📌 Directivas incluídas
-* Dentro del módulo “CommonModule” de @angular/common
- *ngIf: Remueve o crea una parte del DOM basado en la expresión “showSection”
+* Dentro del módulo “CommonModule” de @angular/common <br>
+
+*ngIf: Remueve o crea una parte del DOM basado en la expresión “showSection”
   ```
   <section *ngIf="showSection">
   ```
-*ngFor: Convierte el li en un template, y lo usa para duplicarlo basado en la cantidad de elementos dentro de la lista 
+*ngFor: Convierte el li en un template, y lo usa para duplicarlo basado en la cantidad de elementos dentro de la lista
+  
   ```
-<li *ngFor="let item of list">
+  <li *ngFor="let item of list">
  ```
 
   
