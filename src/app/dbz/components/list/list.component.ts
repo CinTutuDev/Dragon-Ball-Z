@@ -1,7 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 
 @Component({
-  selector: 'app-bdz-list',
+  selector: 'bdz-list',
   templateUrl: './list.component.html',
   styleUrls: ['./list.component.scss']
 })
