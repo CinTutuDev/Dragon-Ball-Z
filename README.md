@@ -23,6 +23,9 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects
 ```
 https://angular.io/guide/singleton-services
 ```
+```
+https://www.npmjs.com/package/uuid
+``` 
 ## 📌 Directivas incluídas
 * Dentro del módulo “CommonModule” de @angular/common <br>
 
