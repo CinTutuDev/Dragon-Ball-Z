@@ -21,8 +21,13 @@
       <strong> Power:</strong>
       <span>{{ character.power }}</span>
     </div>
-
-    <button class="btn btn-danger" (click)="onDeleteCrharacter(i)">X</button>
+    <!-- (click)="onDeleteCrharacter(character.id  || '')" -->
+    <button
+      class="btn btn-danger"
+      (click)="onDeleteCrharacter(character.id)"
+    >
+      X
+    </button>
     <!--   <span
       ><br />
       Es par: {{ isEven }}</span
