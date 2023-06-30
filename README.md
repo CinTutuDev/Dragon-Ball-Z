@@ -21,7 +21,7 @@ https://getbootstrap.com/docs/5.3/components/list-group/#variants
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/splice
 ````
 ```
-https://angular.io/guide/singleton-services
+[https://angular.io/guide/singleton-services](https://angular.io/guide/singleton-services)
 ```
 ```
 https://www.npmjs.com/package/uuid
