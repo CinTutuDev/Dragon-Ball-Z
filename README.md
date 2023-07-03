@@ -38,6 +38,9 @@ https://www.npmjs.com/package/http-server
 ```
 https://www.npmjs.com/package/del-cli
 ```
+```
+https://www.npmjs.com/package/copyfiles
+```
 ## 📌 Directivas incluídas
 * Dentro del módulo “CommonModule” de @angular/common <br>
 
