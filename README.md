@@ -4,7 +4,7 @@
 ## 🐦 Sitio Web
 
 ### Hosting URL: https://chimerical-gecko-1672bb.netlify.app
-
+### GitHub 👉  : https://cintutudev.github.io/AngularComponentBasic
 
 
 ## 🚀Dos formas de crear proyecto
@@ -34,6 +34,12 @@ https://www.npmjs.com/package/uuid
 ```
 ```
 https://www.npmjs.com/package/http-server
+```
+```
+https://www.npmjs.com/package/del-cli
+```
+```
+https://www.npmjs.com/package/copyfiles
 ```
 ## 📌 Directivas incluídas
 * Dentro del módulo “CommonModule” de @angular/common <br>
