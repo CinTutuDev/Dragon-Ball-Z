@@ -1,6 +1,11 @@
 # AngularComponentBasic
 🅰Creación de proyecto para tener listado: Componentes, módulos, One way data binding, Cli...
 
+## 🐦 Sitio Web
+```
+https://chimerical-gecko-1672bb.netlify.app/
+```
+
 ## 🚀Dos formas de crear proyecto
 ```
 npm init @angular myApp
