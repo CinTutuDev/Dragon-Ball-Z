@@ -25,7 +25,10 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects
 ```
 ```
 https://www.npmjs.com/package/uuid
-``` 
+```
+```
+https://www.npmjs.com/package/http-server
+```
 ## 📌 Directivas incluídas
 * Dentro del módulo “CommonModule” de @angular/common <br>
 
