@@ -1,6 +1,12 @@
 # AngularComponentBasic
 🅰Creación de proyecto para tener listado: Componentes, módulos, One way data binding, Cli...
 
+## 🐦 Sitio Web
+
+### Hosting URL: https://chimerical-gecko-1672bb.netlify.app
+
+
+
 ## 🚀Dos formas de crear proyecto
 ```
 npm init @angular myApp
@@ -25,7 +31,10 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects
 ```
 ```
 https://www.npmjs.com/package/uuid
-``` 
+```
+```
+https://www.npmjs.com/package/http-server
+```
 ## 📌 Directivas incluídas
 * Dentro del módulo “CommonModule” de @angular/common <br>
 
