@@ -2,10 +2,8 @@
 🅰Creación de proyecto para tener listado: Componentes, módulos, One way data binding, Cli...
 
 ## 🐦 Sitio Web
-
-### Hosting URL: https://chimerical-gecko-1672bb.netlify.app
-### GitHub 👉  : https://cintutudev.github.io/AngularComponentBasic
-
+### Hosting URL:  [AngularComponentBasic](https://chimerical-gecko-1672bb.netlify.app) 
+### Hosting GitHub 👉  : [AngularComponentBasic](https://cintutudev.github.io/AngularComponentBasic) 
 
 ## 🚀Dos formas de crear proyecto
 ```
