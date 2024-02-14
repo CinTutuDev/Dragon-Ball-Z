@@ -2,7 +2,7 @@
 🅰Creación de proyecto para tener listado: Componentes, módulos, One way data binding, Cli...
 
 ## 🐦 Sitio Web
-### Hosting URL:  [AngularComponentBasic](https://list-dragonball.netlify.app/) 
+### Hosting URL:  [Dragon Ball Z](https://list-dragonball.netlify.app/) 
 ### Hosting GitHub 👉  : [AngularComponentBasic](https://cintutudev.github.io/AngularComponentBasic) 
 
 ## 🚀Dos formas de crear proyecto
